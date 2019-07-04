@@ -4,7 +4,7 @@ public  class IndianaJonas {
 
         String  indiaJones = "Indiana Jones";
         boolean ViewYesOrNo = true;
-        float noteOfMovie = 636934;
+        float noteOfMovie = 8.5f;
         int realiseYear = 1989;
 
 
